@@ -22,4 +22,4 @@ console.log(sumNumbers([3, 2, 4], 6));
 console.log(sumNumbers([3, 3], 6));
 
 // Time Complexity O(n^2)
-// Space Complexity O(1)
+// Space Complexity O(n) (Considering input space and auxiliary space)

@@ -29,4 +29,4 @@ console.log(maximizeProfit([7,1,5,3,6,4]));
 console.log(maximizeProfit([7,6,4,3,1]));
 
 // Time Complexity O(n)
-// Space Complexity O(1)
+// Space Complexity O(n) (Considering input space and auxiliary space)
